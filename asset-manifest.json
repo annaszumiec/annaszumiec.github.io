@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/annaszumiec.github.io/static/css/main.ed0da23b.css",
+    "main.js": "/annaszumiec.github.io/static/js/main.a49cd4e4.js",
+    "static/js/787.5e09b973.chunk.js": "/annaszumiec.github.io/static/js/787.5e09b973.chunk.js",
+    "static/media/pokebaner.svg": "/annaszumiec.github.io/static/media/pokebaner.0264db795728dfea0b6708a690c49f65.svg",
+    "static/media/angular.png": "/annaszumiec.github.io/static/media/angular.b101ade3601a231ec8ba.png",
+    "static/media/anna2.svg": "/annaszumiec.github.io/static/media/anna2.95dbe3ceb83cd7ac1f8982899d4b5d0c.svg",
+    "static/media/pureriver.png": "/annaszumiec.github.io/static/media/pureriver.91d0d3ad3728de4d37fe.png",
+    "static/media/chat.svg": "/annaszumiec.github.io/static/media/chat.8459d3e58d56c7d344deccfb33dbfcc9.svg",
+    "static/media/anna.png": "/annaszumiec.github.io/static/media/anna.8aac29821c9289f6ae80.png",
+    "static/media/1.png": "/annaszumiec.github.io/static/media/1.a3a28ccdb7c7fc19b5d0.png",
+    "static/media/server.svg": "/annaszumiec.github.io/static/media/server.0cbca74bd3c38b602140037b6d0e004f.svg",
+    "static/media/github1.svg": "/annaszumiec.github.io/static/media/github1.a5d02fd6ba07e7c29b39b8568b79174f.svg",
+    "static/media/email1.svg": "/annaszumiec.github.io/static/media/email1.edbaca4cdfc09bc5dfb4d354d41ed6e4.svg",
+    "index.html": "/annaszumiec.github.io/index.html",
+    "main.ed0da23b.css.map": "/annaszumiec.github.io/static/css/main.ed0da23b.css.map",
+    "main.a49cd4e4.js.map": "/annaszumiec.github.io/static/js/main.a49cd4e4.js.map",
+    "787.5e09b973.chunk.js.map": "/annaszumiec.github.io/static/js/787.5e09b973.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed0da23b.css",
+    "static/js/main.a49cd4e4.js"
+  ]
+}
