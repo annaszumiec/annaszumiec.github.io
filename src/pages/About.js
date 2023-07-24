@@ -13,7 +13,7 @@ function About() {
             <picture>
                 <source media='(max-width: 768px)' srcSet={img2} />
                 <source media='(min-width: 768px)' srcSet={img} />
-                <img src={img} alt='hero' />
+                <img id='profilepic' src={img} alt='' />
             </picture>
 
 

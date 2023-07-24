@@ -34,9 +34,13 @@ picture {
         margin:50px;
     }
      .aboutMe picture {
-        margin-left:10px;
         margin-top: 50px;
         margin-bottom: 100px;
+       
+    }
+    #profilepic {
+        max-width: 100%;
+        height: auto;
     }
   
     .aboutMe h1 {
