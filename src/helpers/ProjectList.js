@@ -2,7 +2,7 @@ import Pic1 from '../assets/chat.svg';
 import Pic2 from '../assets/1.png';
 import Pic3 from '../assets/angular.png';
 import Pic4 from '../assets/pureriver.png';
-import Pic5 from '../assets/server.svg';
+import Pic5 from '../assets/serverless.svg';
 import Pic6 from '../assets/pokebaner.svg';
 
 

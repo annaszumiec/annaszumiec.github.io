@@ -9,7 +9,7 @@ export default function Footer() {
     return (
         <div className="footer">
             <Icons />
-            <p>&copy;2023 annaszumiec.com</p>
+            <p>&copy;2023 annaszumiec</p>
 
         </div>
     )

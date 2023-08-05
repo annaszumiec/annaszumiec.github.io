@@ -15,6 +15,8 @@ function Navbar() {
 
     return (
         <div className='navbar' id={expendNavbar ? "open" : "close"}>
+
+
             <div className='toggleButton'>
                 <button onClick={() => { setExpendbar((prev) => !prev) }}>
                     <ReorderIcon
@@ -25,14 +27,12 @@ function Navbar() {
 
             <div className='links'>
 
-                <Link to="/">Home</Link>
-                <Link to="/projects">Projects</Link>
-                <Link to="/about">About me</Link>
-                <Link to="/experience">Experience</Link>
+                <Link className='navMenu' to="/">Home</Link>
+                <Link className='navMenu' to="/projects">Projects</Link>
+                <Link className='navMenu' to="/about">About me</Link>
+                <Link className='navMenu' to="/experience">Experience</Link>
                 <Icons />
-
             </div>
-
 
         </div>
     )

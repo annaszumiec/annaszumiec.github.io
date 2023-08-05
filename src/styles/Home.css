@@ -1,5 +1,6 @@
 
    @import url('https://fonts.cdnfonts.com/css/pez');
+   
 
                 
 
@@ -59,6 +60,8 @@
   
   .skills h1 {
     color:#33343A;
+
+    font-family: 'PEZ_font', sans-serif;
   }
   
   .skills .list {

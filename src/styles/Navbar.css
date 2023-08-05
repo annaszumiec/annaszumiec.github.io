@@ -12,17 +12,20 @@
     align-items: center;
     justify-content: center;
     padding-top: 10px;
-
-
   }
  
+ .navMenu {
+  padding: 20px;
+ }
+
   .navbar a {
     color: #AEB4A1;
     text-decoration: none;
-     padding: 20px;
+   
     font-size: 20px;
   
   }
+
 
   .navbar a:hover {
     color: #8f928a;
