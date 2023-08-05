@@ -18,8 +18,8 @@
                     <use fill="#AEB4A1" fill-rule="evenodd" xlink:href="#path-1"></use>
                 </g>
             </g>
-            <text id="CV" font-family="Lato-BlackItalic, Lato" font-size="18" font-style="italic" font-weight="800" fill="#33343A">
-                <tspan x="8" y="27">CV</tspan>
+            <text id="CV" font-family="Futura-Bold, Futura" font-size="18" font-weight="bold" fill="#33343A">
+                <tspan x="6" y="27">CV</tspan>
             </text>
         </g>
     </g>
