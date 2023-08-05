@@ -20,14 +20,14 @@ function Home() {
                         <h2> Front-End</h2>
                         <span>
                             HTML, CSS, SCSS, React Native, NPM,
-                            BootStrap, MaterialUI, Git & Version Control, Testing and Web Hosting,
+                            BootStrap, MaterialUI, Git & Version Control, Testing and Web Hosting
                         </span>
                     </li>
                     <li className="item">
                         <h2>Full-Stack</h2>
                         <span>
                             NodeJS, ExpressJS, Authentication & Authorization,
-                            MySQL, MongoDB, AWS, ReactJS, Angular, Unit Testing, Integration Testing, User Acceptance & End to End Testing,
+                            MySQL, MongoDB, AWS, ReactJS, Angular, Unit Testing, Integration Testing, User Acceptance & End to End Testing
                         </span>
                     </li>
                     <li className="item">
