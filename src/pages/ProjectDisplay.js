@@ -9,6 +9,7 @@ import "../styles/ProjectDisplay.css";
 function ProjectDisplay() {
     const { id } = useParams();
     const project = ProjectList[id];
+    const isLinked = true;
     return (
         <div className="project">
 
@@ -24,14 +25,15 @@ function ProjectDisplay() {
                 {project.about}
             </h2>
 
-            <a href={project.link} rel="noopener noreferrer" target="_blank">
+            {isLinked && (<a href={project.link} rel="noopener noreferrer" target="_blank">
                 <LinkIcon />
             </a>
+            )}
+
 
             <a href={project.github} rel="noopener noreferrer" target="_blank">
                 <GitHubIcon />
             </a>
-
 
         </div>
     );

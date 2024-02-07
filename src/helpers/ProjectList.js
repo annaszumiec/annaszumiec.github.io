@@ -4,10 +4,21 @@ import Pic3 from '../assets/angular.png';
 import Pic4 from '../assets/pureriver.png';
 import Pic5 from '../assets/serverless.svg';
 import Pic6 from '../assets/pokebaner.svg';
+import Pic7 from '../assets/vue.png';
 
 
 export const ProjectList = [
 
+    {
+        name: "Vue live-chat App",
+        image: Pic7,
+        skills: "JavaScript",
+        stack: "VUE, Firebase Database",
+        about: "Live-Chat Room using VUE framework, firebase Authentication system for user to sign up and login, hosted on firebase ",
+        link: 'https://vue-annachatapp.web.app/chatroom',
+        github: 'https://github.com/annaszumiec/VUE-live-chat',
+        isLinked: false,
+    },
     {
         name: "Native App",
         image: Pic1,
@@ -15,7 +26,8 @@ export const ProjectList = [
         stack: "React Native, Expo, and Google Firestore Database",
         about: "Chat app for mobile devices using React Native a framework for building Android and iOS apps that only requires one codebase. The app provide users with a chat interface and options to share images and their location.",
         link: '',
-        github: 'https://github.com/annaszumiec/Chat-app'
+        github: 'https://github.com/annaszumiec/Chat-app',
+        isLinked: false,
     },
 
     {
@@ -25,7 +37,8 @@ export const ProjectList = [
         stack: "React Native, Expo, and Google Firestore Database",
         about: "Serverless, progressive web application (PWA) with React using a test-driven development (TDD) technique. The application uses the Google Calendar API to fetch upcoming events.",
         link: 'https://annaszumiec.github.io/meet/',
-        github: 'https://github.com/annaszumiec/meet'
+        github: 'https://github.com/annaszumiec/meet',
+        isLinked: true
 
     },
     {
