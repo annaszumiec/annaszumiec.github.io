@@ -14,7 +14,7 @@ export const ProjectList = [
         image: Pic8,
         skills: "JavaScript",
         stack: "VUE, Firebase Database",
-        about: "Live-Chat Room using VUE framework, firebase Authentication system for user to sign up and login, hosted on firebase ",
+        about: "Music Room using VUE framework, firebase Authentication system for user to sign up and login, hosted on firebase ",
         link: 'https://musicroom-221db.web.app/',
         github: 'https://github.com/annaszumiec/VUE-music-room',
 
