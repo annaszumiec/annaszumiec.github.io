@@ -1,39 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="73px" height="51px" viewBox="0 0 73 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Group 18</title>
+    <title>Group 25</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-18">
-            <rect id="Rectangle" fill="#C7C7C7" x="0" y="0" width="73" height="51"></rect>
-            <g id="Group-10" transform="translate(18.000000, 6.000000)">
-                <rect id="Rectangle" stroke="#615C5C" stroke-width="0.5" fill="#282727" x="0.968204489" y="1.1408686" width="33.6147132" height="38.6091314"></rect>
-                <rect id="Rectangle" stroke="#050505" stroke-width="0.9" fill="#616161" x="0.45" y="0.45" width="35.1" height="11.0376392"></rect>
-                <rect id="Rectangle" fill="#E15252" x="2.51371571" y="5.34521158" width="3.59102244" height="1.78173719" rx="0.585"></rect>
-                <rect id="Rectangle" fill="#69A4FF" x="7.09226933" y="5.34521158" width="3.59102244" height="1.78173719" rx="0.585"></rect>
-                <rect id="Rectangle" fill="#78A045" x="11.6708229" y="5.34521158" width="3.59102244" height="1.78173719" rx="0.585"></rect>
-                <ellipse id="Oval" fill="#B6FF00" cx="33.0822943" cy="6.28062361" rx="1.12219451" ry="1.11358575"></ellipse>
-                <rect id="Rectangle" fill="#FFFFFF" x="17.9551122" y="3.56347439" width="12.2992519" height="1"></rect>
-                <rect id="Rectangle-Copy-3" fill="#FFFFFF" x="18.0448878" y="5.34521158" width="12.2992519" height="1"></rect>
-                <rect id="Rectangle-Copy-4" fill="#FFFFFF" x="18.0448878" y="7.12694878" width="12.2992519" height="1"></rect>
-                <rect id="Rectangle-Copy-5" fill="#FFFFFF" x="18.0448878" y="8.90868597" width="12.2992519" height="1"></rect>
-                <rect id="Rectangle" stroke="#050505" stroke-width="0.9" fill="#616161" x="0.45" y="13.9021158" width="35.1" height="11.0376392"></rect>
-                <rect id="Rectangle" fill="#1EAD63" x="2.51371571" y="18.7973274" width="3.59102244" height="1.78173719" rx="0.585"></rect>
-                <rect id="Rectangle" fill="#1B273A" x="7.09226933" y="18.7973274" width="3.59102244" height="1.78173719" rx="0.585"></rect>
-                <rect id="Rectangle" fill="#78A045" x="11.6708229" y="18.7973274" width="3.59102244" height="1.78173719" rx="0.585"></rect>
-                <ellipse id="Oval" fill="#CAD5AE" cx="33.0822943" cy="19.7327394" rx="1.12219451" ry="1.11358575"></ellipse>
-                <rect id="Rectangle" fill="#FFFFFF" x="17.9551122" y="17.0155902" width="12.2992519" height="1"></rect>
-                <rect id="Rectangle-Copy-3" fill="#FFFFFF" x="18.0448878" y="18.7973274" width="12.2992519" height="1"></rect>
-                <rect id="Rectangle-Copy-4" fill="#FFFFFF" x="18.0448878" y="20.5790646" width="12.2992519" height="1"></rect>
-                <rect id="Rectangle-Copy-5" fill="#FFFFFF" x="18.0448878" y="22.3608018" width="12.2992519" height="1"></rect>
-                <rect id="Rectangle" stroke="#050505" stroke-width="0.9" fill="#616161" x="0.45" y="27.1760579" width="35.1" height="11.0376392"></rect>
-                <rect id="Rectangle" fill="#E152C5" x="2.51371571" y="32.0712695" width="3.59102244" height="1.78173719" rx="0.585"></rect>
-                <rect id="Rectangle" fill="#69FFB6" x="7.09226933" y="32.0712695" width="3.59102244" height="1.78173719" rx="0.585"></rect>
-                <rect id="Rectangle" fill="#C94E2A" x="11.6708229" y="32.0712695" width="3.59102244" height="1.78173719" rx="0.585"></rect>
-                <ellipse id="Oval" fill="#B6FF00" cx="33.0822943" cy="33.0066815" rx="1.12219451" ry="1.11358575"></ellipse>
-                <rect id="Rectangle" fill="#FFFFFF" x="17.9551122" y="30.2895323" width="12.2992519" height="1"></rect>
-                <rect id="Rectangle-Copy-3" fill="#FFFFFF" x="18.0448878" y="32.0712695" width="12.2992519" height="1"></rect>
-                <rect id="Rectangle-Copy-4" fill="#FFFFFF" x="18.0448878" y="33.8530067" width="12.2992519" height="1"></rect>
-                <rect id="Rectangle-Copy-5" fill="#FFFFFF" x="18.0448878" y="35.6347439" width="12.2992519" height="1"></rect>
+        <g id="Group-25">
+            <g id="Group-18" fill="#C7C7C7">
+                <rect id="Rectangle" x="0" y="0" width="73" height="51"></rect>
             </g>
+            <rect id="Rectangle" fill="#C94E2A" x="29.2817955" y="10" width="3.59102244" height="1.78173719" rx="0.585"></rect>
+            <rect id="Rectangle" fill="#69A4FF" transform="translate(35.254017, 11.422680) rotate(22.000000) translate(-35.254017, -11.422680) " x="33.4585054" y="10.5318118" width="3.59102244" height="1.78173719" rx="0.585"></rect>
+            <rect id="Rectangle" fill="#69FFB6" transform="translate(38.832723, 13.380066) rotate(43.000000) translate(-38.832723, -13.380066) " x="37.0372115" y="12.4891974" width="3.59102244" height="1.78173719" rx="0.585"></rect>
+            <rect id="Rectangle" fill="#69A4FF" transform="translate(40.714987, 16.457750) rotate(85.000000) translate(-40.714987, -16.457750) " x="38.9194761" y="15.5668813" width="3.59102244" height="1.78173719" rx="0.585"></rect>
+            <rect id="Rectangle" fill="#69A4FF" transform="translate(47.689547, 15.628817) rotate(16.000000) translate(-47.689547, -15.628817) " x="45.8940357" y="14.7379481" width="3.59102244" height="1.78173719" rx="0.585"></rect>
+            <rect id="Rectangle" fill="#69A4FF" transform="translate(50.689547, 21.628817) rotate(104.000000) translate(-50.689547, -21.628817) " x="48.8940357" y="20.7379481" width="3.59102244" height="1.78173719" rx="0.585"></rect>
+            <rect id="Rectangle" fill="#FEE65F" transform="translate(43.899368, 15.727830) rotate(-13.000000) translate(-43.899368, -15.727830) " x="42.103857" y="14.836961" width="3.59102244" height="1.78173719" rx="0.585"></rect>
+            <rect id="Rectangle" fill="#E152C5" transform="translate(52.077307, 24.890869) rotate(10.000000) translate(-52.077307, -24.890869) " x="50.2817955" y="24" width="3.59102244" height="1.78173719" rx="0.585"></rect>
+            <rect id="Rectangle" fill="#FEE65F" transform="translate(55.950857, 27.823086) rotate(55.000000) translate(-55.950857, -27.823086) " x="54.1553457" y="26.9322172" width="3.59102244" height="1.78173719" rx="0.585"></rect>
+            <rect id="Rectangle" fill="#D40127" transform="translate(50.077307, 17.890869) rotate(56.000000) translate(-50.077307, -17.890869) " x="48.2817955" y="17" width="3.59102244" height="1.78173719" rx="0.585"></rect>
+            <rect id="Rectangle" fill="#C94E2A" transform="translate(57.077307, 31.890869) rotate(85.000000) translate(-57.077307, -31.890869) " x="55.2817955" y="31" width="3.59102244" height="1.78173719" rx="0.585"></rect>
+            <rect id="Rectangle" fill="#69FFB6" transform="translate(56.077307, 35.890869) rotate(135.000000) translate(-56.077307, -35.890869) " x="54.2817955" y="35" width="3.59102244" height="1.78173719" rx="0.585"></rect>
+            <rect id="Rectangle" fill="#78A045" transform="translate(53.077307, 38.890869) rotate(160.000000) translate(-53.077307, -38.890869) " x="51.2817955" y="38" width="3.59102244" height="1.78173719" rx="0.585"></rect>
+            <rect id="Rectangle" fill="#78A045" transform="translate(19.077307, 23.890869) rotate(135.000000) translate(-19.077307, -23.890869) " x="17.2817955" y="23" width="3.59102244" height="1.78173719" rx="0.585"></rect>
+            <rect id="Rectangle" fill="#E152C5" transform="translate(23.077307, 21.890869) rotate(181.000000) translate(-23.077307, -21.890869) " x="21.2817955" y="21" width="3.59102244" height="1.78173719" rx="0.585"></rect>
+            <rect id="Rectangle" fill="#69A4FF" transform="translate(16.077307, 27.890869) rotate(109.000000) translate(-16.077307, -27.890869) " x="14.2817955" y="27" width="3.59102244" height="1.78173719" rx="0.585"></rect>
+            <rect id="Rectangle" fill="#69FFB6" transform="translate(21.077307, 38.890869) rotate(209.000000) translate(-21.077307, -38.890869) " x="19.2817955" y="38" width="3.59102244" height="1.78173719" rx="0.585"></rect>
+            <rect id="Rectangle" fill="#E152C5" transform="translate(17.717440, 35.905641) rotate(241.000000) translate(-17.717440, -35.905641) " x="15.9219287" y="35.0147729" width="3.59102244" height="1.78173719" rx="0.585"></rect>
+            <rect id="Rectangle" fill="#FEE65F" transform="translate(15.717440, 31.905641) rotate(265.000000) translate(-15.717440, -31.905641) " x="13.9219287" y="31.0147729" width="3.59102244" height="1.78173719" rx="0.585"></rect>
+            <rect id="Rectangle" fill="#69FFB6" transform="translate(24.077307, 14.890869) rotate(135.000000) translate(-24.077307, -14.890869) " x="22.2817955" y="14" width="3.59102244" height="1.78173719" rx="0.584999979"></rect>
+            <rect id="Rectangle" fill="#69A4FF" transform="translate(27.247845, 12.106649) rotate(151.000000) translate(-27.247845, -12.106649) " x="25.4523335" y="11.2157804" width="3.59102244" height="1.78173719" rx="0.584999979"></rect>
+            <rect id="Rectangle" fill="#69A4FF" transform="translate(22.077307, 18.890869) rotate(94.000000) translate(-22.077307, -18.890869) " x="20.2817955" y="18" width="3.59102244" height="1.78173719" rx="0.584999979"></rect>
+            <rect id="Rectangle" fill="#69A4FF" transform="translate(36.781796, 40.000000) rotate(180.000000) translate(-36.781796, -40.000000) " x="23.2817955" y="39" width="27" height="2" rx="0.584999979"></rect>
         </g>
     </g>
 </svg>
